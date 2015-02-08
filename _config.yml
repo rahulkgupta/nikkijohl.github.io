@@ -3,54 +3,32 @@ baseurl: ""
 
 # Site settings
 title: NIKKI JOHL
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+email: nikkijohl@gmail.com
+description: "Nikki Johl, student design portfolio"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: a883e0
   secondary: 52c0ff
-  secondary-dark: 333
+  secondary-dark: 8c8c8c
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Larry Parker
+- name: Nikki Johl
   pic: 2
-  position: Lead Marketer
+  position:
   social:
     - title: twitter
       url: #
-    - title: facebook
-      url: #
+    - title: instagram
+      url: # http://instagram.com/nikkijohl/
     - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: # www.linkedin.com/in/nikkijohl
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: http://twitter.com/nikkiontaglike
   - title: facebook
     url:
   - title: stack-overflow
