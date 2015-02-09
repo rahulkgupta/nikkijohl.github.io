@@ -19,7 +19,7 @@ people:
   position:
   social:
     - title: twitter
-      url: #
+      url: # http://twitter.com/nikkiontaglike/
     - title: instagram
       url: # http://instagram.com/nikkijohl/
     - title: linkedin
@@ -30,13 +30,13 @@ social:
   - title: twitter
     url: http://twitter.com/nikkiontaglike
   - title: facebook
-    url:
+    url: 
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
   - title: bitbucket
     url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/nikkijohl
 
 # Postal address (add as many lines as necessary)
 address:
